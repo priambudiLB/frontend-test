@@ -1,7 +1,7 @@
 Modified From https://github.com/bezkoder/react-axios-example
 ## Getting Started
 
-Install dependencies (use npm):
+Install dependencies (use NPM):
 
 ```sh
 npm install
