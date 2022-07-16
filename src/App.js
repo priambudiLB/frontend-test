@@ -7,7 +7,7 @@ import PostSection from "./components/PostSection/view";
 function App() {
   return (
     <div id="app" className="container my-3">
-      <h3>React Axios example - netlify 11/06/2022</h3>
+      <h3>React Axios example - netlify 16/07/2022</h3>
       <GetSection />
       <PostSection />
     </div>
